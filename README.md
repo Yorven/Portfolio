@@ -8,10 +8,10 @@ Hi! My name is Mateusz Stasik.
 * 6-day HTML/CSS Marathon from GoIT
 ## TOOLS 🛠️
 * Jira - bug tracker
-* TestLink - Test menagement system
+* TestLink - test menagement system
 * Chrome DevTools - for testing and to improve bug reports
 * Slack - for communication within the team
-* GitHub
+* GitHub - code hosting platform
 * MySQL - relational database management system
 ## TECH SKILLS ⚙️
 ## SOFT SKILLS  🙆‍♂️
