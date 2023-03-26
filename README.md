@@ -17,4 +17,4 @@ Hi! My name is Mateusz Stasik.
 ## SOFT SKILLS  🙆‍♂️
 ## MY PROJECTS 📋
 * Test cases
-  * Test cases for [Scouts Panel application](https://scouts-test.futbolkolektyw.pl/pl)
+  * Test cases for [Scouts Panel application](https://docs.google.com/document/d/1ShAxMBtIM40MEusP4MH9FDpRaejc_5dtY5cBYaVR0js/edit)
