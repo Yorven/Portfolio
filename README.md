@@ -15,6 +15,11 @@ Hi! My name is Mateusz Stasik.
 * MySQL - relational database management system
 ## TECH SKILLS ⚙️
 ## SOFT SKILLS  🙆‍♂️
+* Team player
+* Independent and responsible
+* Problem solving
+* Fast lerner
+* Good time management
 ## MY PROJECTS 📋
 * Test cases
   * Test cases for [Scouts Panel application](https://docs.google.com/document/d/1ShAxMBtIM40MEusP4MH9FDpRaejc_5dtY5cBYaVR0js/edit)
