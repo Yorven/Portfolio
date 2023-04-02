@@ -14,6 +14,12 @@ Hi! My name is Mateusz Stasik.
 * GitHub - code hosting platform
 * MySQL - relational database management system
 ## TECH SKILLS ⚙️
+* Software testing
+* Creating test cases
+* Bug reporting
+* SQL - basic
+* HTML/CSS - basic 
+* JavaScript - exploring
 ## SOFT SKILLS  🙆‍♂️
 * Team player
 * Independent and responsible
