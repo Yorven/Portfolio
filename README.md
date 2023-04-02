@@ -13,6 +13,7 @@ Hi! My name is Mateusz Stasik.
 * Slack - for communication within the team
 * GitHub - code hosting platform
 * MySQL - relational database management system
+* PicPick/ShareX - screenshot tools
 ## TECH SKILLS ⚙️
 * Software testing
 * Creating test cases
