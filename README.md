@@ -1,12 +1,11 @@
 # PORTFOLIO
-***In progress***
 ## ABOUT ME
 Hi! My name is Mateusz Stasik. I am in the process of changing my career direction to become a software tester. Technology has always been close to me, which is why I have been interested in this career path for a long time. My diverse experience helps me to function well in a team. I am motivated to be able to prove my skills and gain new experience.
 
 In this portfolio, I want to present my previous experience in software testing. I participated in the DareIT Challenge course - Become a Manual Tester. During the course I gained knowledge in the field of software testing and SQL language. My task included testing various applications, creating test cases, reporting bugs and writing reports on the tests carried out. The fruits of my labor can be seen below.
 ## COURSES 📝
-* Praktyczny kurs testowania oprogramowania (Udemy)
-* DareIT: QA Challenge - Zostań testerem manualnym
+* Practical software testing course (Udemy)
+* DareIT: QA Challenge - Become a Manual Tester
 * 6-day HTML/CSS Marathon from GoIT
 ## TOOLS 🛠️
 * Jira - bug tracker
